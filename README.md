@@ -1,13 +1,11 @@
 # 👋 Hello, I'm Ata Özeren  
-**Full Stack Developer | Creator of Impactful Digital Solutions**
+**Full Stack Developer**
 
-Welcome to my GitHub! I’m a passionate software developer focused on building robust, scalable, and user-centric applications. I write clean, maintainable code and enjoy working across the stack — from frontend UI to backend services and database systems.
-
+Welcome to my GitHub! I’m a passionate software developer focused on building robust, scalable, and user-centric applications. I write clean, maintainable code and enjoy working across the stack — from frontend UI to backend services and APIs.
 
 ---
 
 ## 👨‍💻 About Me
-
 
 I am Ata Özeren, born in 2000 in Izmir, Turkey. I am a software developer with experience in full-stack web and mobile application development. I specialize in modern programming languages and frameworks such as JavaScript, React, React Native, SQL, and Python.
 
@@ -17,7 +15,7 @@ I am pursuing a Bachelor's degree in Management Information Systems at Anadolu U
 
 🔗 Personal Website: https://www.ataozeren.com/
 
-📌 I work with modern stacks including TypeScript, Node.js, React, SolidJS, TailwindCSS, Expo, Godot (game dev (As a hobby :D)), and more.
+📌 I work with modern stacks including TypeScript, Node.js, React, SolidJS, TailwindCSS, Expo, Godot (game dev as a hobby 🎮), and more.
 
 ---
 
@@ -34,5 +32,5 @@ I am pursuing a Bachelor's degree in Management Information Systems at Anadolu U
 
 ## 🤝 Let’s Connect
 
-Website: https://www.ataozeren.com/
+Website: https://www.ataozeren.com/  
 Email: ataozeren2000@gmail.com
